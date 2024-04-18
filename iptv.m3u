@@ -68,9 +68,6 @@ https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
 #EXTINF:0,ТВЦ (EDTV 576p)
 #EXTGRP:Общественные
 http://31.148.6.9:10010/index.m3u8
-#EXTINF:0,Anime Kids
-#EXTGRP:Детские
-http://158.101.194.132:8080/channel/6baef281/index.m3u8?q=a024650819fbec7a200f6b10
 #EXTINF:0,Nicktoons
 #EXTGRP:Детские
 https://stream01.vnet.am/Boomerang/mono.m3u8
