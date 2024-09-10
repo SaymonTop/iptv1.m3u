@@ -185,9 +185,9 @@ http://146.158.0.56/Teatr/mono.m3u8
 #EXTINF:0,Точка ТВ (EDTV 576p)
 #EXTGRP:Развлекательные
 https://tochkatv-live.cdnvideo.ru/tochkatv2/tochkatv-sd.stream/playlist.m3u8
-#EXTINF:0,ТНТ International (СНГ, 480p)
+#EXTINF:0,ТНТ
 #EXTGRP:Развлекательные
-http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
+http://91.205.199.3/tnthd/index.m3u8
 #EXTINF:0,ТНТ4 (EDTV 576p)
 #EXTGRP:Развлекательные
 https://edge02.odtv.az/o7/tnt4/playlist.m3u8
