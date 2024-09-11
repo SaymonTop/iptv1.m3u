@@ -8,6 +8,9 @@ http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:0,ПРНК (HD ready)
 #EXTGRP:Общественные
 http://dmi3y-tv.ru/hls/CH_1RNKHD720.m3u8
+#EXTINF:0,Kavkaz 24
+#EXTGRP:Общественные
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
 #EXTINF:0,RTД (HD)
 #EXTGRP:Общественные
 https://hls.rt.com/hls/rtdru.m3u8
